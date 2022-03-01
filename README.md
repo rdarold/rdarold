@@ -4,4 +4,4 @@ Na sequência comecei a trabalhar no Visual Basic 3.0, ainda em 16 bits e quando
 Já desempenhei diversas funções (programador, analista, professor, supervisão de produção) e trabalhei com inúmeras tecnologias (Visual Basic, ASP, ASP.NET, VB.Net, Java, 
 Powerbuilder, PHP) e atualmente trabalho com .NET focando em C#.
 
-<a href="https://www.linkedin.com/in/rodrigoantoniodarold/" target="_blank">Saiba mais</a>
+<a href="https://www.linkedin.com/in/rodrigoantoniodarold/" target="_blank" rel="noopener noreferrer">Saiba mais</a>
